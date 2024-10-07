@@ -1,0 +1,16 @@
+{
+  "name": "faker-mobile-numbers",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/google-libphonenumber": "^7.4.30",
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.0.2",
+    "google-libphonenumber": "^3.2.38"
+  }
+}
