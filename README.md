@@ -1,6 +1,6 @@
 # faker-mobile-numbers
 Generating phone numbers and validating them against googles library
-
+All data generated can be found in /data/
 
 To install dependencies:
 
